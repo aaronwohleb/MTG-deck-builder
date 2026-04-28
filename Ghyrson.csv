@@ -1,0 +1,101 @@
+Card_Name,Category,Card_Type,Rarity,Price_USD,Source
+Ghyrson Starn Kelermorph,commander,,,0.0,commander
+Brainstorm,instant,instant,C,1.4,seed
+Curiosity,enchantment,enchantment — aura,U,0.4,seed
+Grapeshot,sorcery,sorcery,C,0.3,seed
+Slip Out the Back,instant,instant,U,4.1,seed
+Rolling Thunder,sorcery,sorcery,U,0.22,seed
+Goblin Medics,creature,creature — goblin shaman,C,0.2,seed
+Unruly Catapult,creature,artifact creature — construct,C,0.31,seed
+Quicksilver Dagger,enchantment,enchantment — aura,C,0.24,seed
+Tandem Lookout,creature,creature — human scout,U,0.43,seed
+Command Tower,land,land,C,0.31,recommended
+Arcane Signet,artifact,artifact,C,0.49,recommended
+Sol Ring,artifact,artifact,R,1.24,recommended
+Island,land,basic land — island,C,0.01,recommended
+Mountain,land,basic land — mountain,C,0.01,recommended
+Fellwar Stone,artifact,artifact,U,0.69,recommended
+Exotic Orchard,land,land,R,0.25,recommended
+An Offer You Can't Refuse,instant,instant,U,2.22,recommended
+Mystic Remora,enchantment,enchantment,C,10.0,recommended
+Flusterstorm,instant,instant,R,9.0,recommended
+Mindbreak Trap,instant,instant — trap,M,7.25,recommended
+Mental Misstep,instant,instant,U,10.41,recommended
+Swan Song,instant,instant,R,7.85,recommended
+Lotus Petal,artifact,artifact,C,17.5,recommended
+Pact of Negation,instant,instant,R,10.99,recommended
+Mystical Tutor,instant,instant,U,9.14,recommended
+Simian Spirit Guide,creature,creature — ape spirit,C,1.37,recommended
+Red Elemental Blast,instant,instant,U,1.0,recommended
+Scalding Tarn,land,land,R,37.61,recommended
+Brain Freeze,instant,instant,U,3.23,recommended
+Borne Upon a Wind,instant,instant,R,5.04,recommended
+Gamble,sorcery,sorcery,R,6.99,recommended
+Underworld Breach,enchantment,enchantment,R,6.86,recommended
+Talisman of Creativity,artifact,artifact,U,1.25,recommended
+Polluted Delta,land,land,R,19.5,recommended
+Flooded Strand,land,land,R,16.28,recommended
+Rhystic Study,enchantment,enchantment,C,38.0,recommended
+Into the Flood Maw,instant,instant,U,2.32,recommended
+City of Brass,land,land,U,10.49,recommended
+Force of Will,instant,instant,U,68.89,recommended
+"Otawara, Soaring City",land,legendary land,R,30.17,recommended
+Gemstone Caverns,land,legendary land,R,49.02,recommended
+Rite of Flame,sorcery,sorcery,C,5.8,recommended
+Ancient Tomb,land,land,U,65.0,recommended
+Fierce Guardianship,instant,instant,R,59.28,recommended
+Mana Vault,artifact,artifact,M,98.78,recommended
+Misty Rainforest,land,land,R,34.98,recommended
+Force of Negation,instant,instant,R,44.99,recommended
+Steam Vents,land,land — island mountain,R,10.99,recommended
+Bloodstained Mire,land,land,R,17.52,recommended
+Chrome Mox,artifact,artifact,R,166.67,recommended
+Mana Confluence,land,land,R,34.87,recommended
+Valley Floodcaller,creature,creature — otter wizard,R,4.39,recommended
+Snap,instant,instant,C,1.15,recommended
+Shivan Reef,land,land,R,0.38,recommended
+Frantic Search,instant,instant,C,0.3,recommended
+Wooded Foothills,land,land,R,17.77,recommended
+Sink into Stupor,land,instant//land,U,6.54,recommended
+"Ragavan, Nimble Pilferer",creature,legendary creature — monkey pirate,M,49.99,recommended
+Arid Mesa,land,land,R,36.07,recommended
+Faerie Mastermind,creature,creature — faerie rogue,R,13.12,recommended
+Mockingbird,creature,creature — bird bard,R,4.1,recommended
+Mox Opal,artifact,legendary artifact,M,249.96,recommended
+Gitaxian Probe,sorcery,sorcery,C,3.79,recommended
+Thassa's Oracle,creature,creature — merfolk wizard,R,24.54,recommended
+Jeska's Will,sorcery,sorcery,R,41.12,recommended
+Mox Amber,artifact,legendary artifact,M,83.82,recommended
+Phyrexian Metamorph,creature,artifact creature — phyrexian shapeshifter,R,2.12,recommended
+Storm-Kiln Artist,creature,creature — dwarf shaman,U,1.48,recommended
+Mox Diamond,artifact,artifact,R,1469.85,recommended
+Marsh Flats,land,land,R,29.67,recommended
+The One Ring,artifact,legendary artifact,M,107.05,recommended
+Cephalid Coliseum,land,land,U,0.27,recommended
+Training Center,land,land,R,10.06,recommended
+Izzet Signet,artifact,artifact,C,0.4,recommended
+Faithless Looting,sorcery,sorcery,C,0.38,recommended
+Windswept Heath,land,land,R,11.96,recommended
+Volcanic Island,land,land — island mountain,T,470.0,recommended
+Verdant Catacombs,land,land,R,30.65,recommended
+Hexing Squelcher,creature,creature — goblin sorcerer,R,18.44,recommended
+Mirrormade,enchantment,enchantment,R,1.65,recommended
+Mistrise Village,land,land,R,7.11,recommended
+Urza's Saga,land,enchantment land — urza’s saga,R,41.5,recommended
+Emergence Zone,land,land,U,4.95,recommended
+Windfall,sorcery,sorcery,U,4.99,recommended
+Lion's Eye Diamond,artifact,artifact,R,859.17,recommended
+"Birgi, God of Storytelling",creature,legendary creature — god // legendary artifact,R,29.62,recommended
+Starting Town,land,land — town,R,11.04,recommended
+Cascade Bluffs,land,land,R,0.5,recommended
+Sulfur Falls,land,land,R,0.4,recommended
+Fiery Islet,land,land,R,4.12,recommended
+Dualcaster Mage,creature,creature — human wizard,R,4.57,recommended
+Dragon's Rage Channeler,creature,creature — human shaman,U,1.45,recommended
+Thundering Falls,land,land — island mountain,R,16.43,recommended
+Firebrand Archer,creature,creature — human archer,C,0.26,recommended
+Hullbreaker Horror,creature,creature — kraken horror,R,5.44,recommended
+Coruscation Mage,creature,creature — otter wizard,U,0.99,recommended
+Imperial Recruiter,creature,creature — human advisor,M,13.97,recommended
+Professional Face-Breaker,creature,creature — human warrior,R,4.15,recommended
+Thalakos Sentry,creature,Creature — Thalakos Soldier,common,0.11,seed

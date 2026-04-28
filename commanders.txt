@@ -1,0 +1,1656 @@
+
+Name	Meta %	Decks	Price	
+	Tymna the Weaver
+11.71%	11436	$5936	
+	Thrasios, Triton Hero
+8.56%	8365	$6035	
+	Kraum, Ludevic's Opus
+7.03%	6870	$7108	
+	Rograkh, Son of Rohgahh
+6.8%	6643	$7375	
+	Kinnan, Bonder Prodigy
+5.14%	5026	$4391	
+	Silas Renn, Seeker Adept
+2.93%	2861	$5247	
+	Sisay, Weatherlight Captain
+2.5%	2446	$6198	
+	Malcolm, Keen-Eyed Navigator
+1.83%	1792	$5577	
+	Magda, Brazen Outlaw
+1.73%	1688	$3071	
+	Vivi Ornitier
+1.38%	1351	$4777	
+	Dargo, the Shipwrecker
+1.27%	1238	$5295	
+	Yoshimaru, Ever Faithful
+1.19%	1161	$6046	
+	Vial Smasher the Fierce
+1.16%	1131	$5541	
+	Tivit, Seller of Secrets
+1.14%	1118	$5224	
+	Glarb, Calamity's Augur
+0.85%	834	$4677	
+	Lumra, Bellow of the Woods
+0.83%	808	$6230	
+	Krark, the Thumbless
+0.82%	801	$4809	
+	Yuriko, the Tiger's Shadow
+0.8%	780	$2879	
+	Tayam, Luminous Enigma
+0.78%	760	$3711	
+	Marneus Calgar
+0.7%	684	$5408	
+	Ob Nixilis, Captive Kingpin
+0.62%	603	$4679	
+	K'rrik, Son of Yawgmoth
+0.59%	575	$4542	
+	Tevesh Szat, Doom of Fools
+0.57%	560	$6142	
+	Derevi, Empyrial Tactician
+0.56%	551	$4509	
+	Winota, Joiner of Forces
+0.53%	520	$2392	
+	Atraxa, Grand Unifier
+0.53%	513	$5160	
+	Rocco, Cabaretti Caterer
+0.51%	501	$4184	
+	Kenrith, the Returned King
+0.5%	492	$6669	
+	Stella Lee, Wild Card
+0.5%	491	$4315	
+	Inalla, Archmage Ritualist
+0.49%	479	$5599	
+	Najeela, the Blade-Blossom
+0.47%	455	$6607	
+	Y'shtola, Night's Blessed
+0.46%	446	$3305	
+	Urza, Lord High Artificer
+0.44%	432	$4469	
+	Dihada, Binder of Wills
+0.43%	419	$5095	
+	The Gitrog Monster
+0.42%	413	$6596	
+	The Wandering Minstrel
+0.42%	408	$5834	
+	Ishai, Ojutai Dragonspeaker
+0.38%	375	$5397	
+	Sakashima of a Thousand Faces
+0.38%	372	$4239	
+	Etali, Primal Conqueror
+0.37%	362	$4309	
+	Rowan, Scion of War
+0.34%	336	$3026	
+	Talion, the Kindly Lord
+0.33%	326	$4249	
+	Arcum Dagsson
+0.32%	313	$6691	
+	Zirda, the Dawnwaker
+0.31%	303	$9600	
+	Hashaton, Scarab's Fist
+0.3%	290	$5468	
+	Kodama of the East Tree
+0.3%	289	$5193	
+	Francisco, Fowl Marauder
+0.29%	285	$5471	
+	Rakdos, the Muscle
+0.28%	274	$3289	
+	Tana, the Bloodsower
+0.28%	272	$4655	
+	Zhulodok, Void Gorger
+0.27%	265	$8605	
+	Kediss, Emberclaw Familiar
+0.27%	262	$4154	
+	Elsha of the Infinite
+0.26%	254	$6923	
+	Shorikai, Genesis Engine
+0.25%	241	$6720	
+	Korvold, Fae-Cursed King
+0.24%	239	$5071	
+	Ellivere of the Wild Court
+0.23%	225	$2284	
+	Zur the Enchanter
+0.23%	224	$4547	
+	Noctis, Prince of Lucis
+0.21%	204	$6404	
+	Chatterfang, Squirrel General
+0.21%	202	$3453	
+	Celes, Rune Knight
+0.2%	195	$4379	
+	Wernog, Rider's Chaplain
+0.18%	180	$6809	
+	Hearthhull, the Worldseed
+0.18%	180	$556	
+	Animar, Soul of Elements
+0.18%	180	$3202	
+	Ral, Monsoon Mage
+0.18%	179	$5157	
+	Jeska, Thrice Reborn
+0.18%	174	$5376	
+	Akiri, Line-Slinger
+0.17%	168	$6403	
+	Gwenom, Remorseless
+0.17%	165	$4367	
+	Maralen, Fae Ascendant
+0.16%	161	$4254	
+	Niv-Mizzet, Parun
+0.16%	154	$3855	
+	The Master of Keys
+0.16%	154	$5764	
+	Reyhan, Last of the Abzan
+0.15%	150	$3195	
+	Loot, the Pathfinder
+0.15%	146	$5472	
+	Narset, Enlightened Master
+0.15%	145	$4784	
+	Kefka, Court Mage
+0.15%	145	$5350	
+	Tasigur, the Golden Fang
+0.15%	144	$4527	
+	Flubs, the Fool
+0.14%	139	$4864	
+	Bruse Tarl, Boorish Herder
+0.14%	137	$4547	
+	Ashling, the Limitless
+0.14%	134	$1917	
+	Tameshi, Reality Architect
+0.14%	132	$5540	
+	Bjorna, Nightfall Alchemist
+0.13%	130	$7107	
+	Godo, Bandit Warlord
+0.13%	125	$5937	
+	Tidus, Yuna's Guardian
+0.13%	124	$232	
+	Selvala, Heart of the Wilds
+0.13%	124	$2201	
+	The Wise Mothman
+0.12%	119	$2535	
+	Kaalia of the Vast
+0.12%	118	$4487	
+	Sythis, Harvest's Hand
+0.12%	117	$4021	
+	Jhoira, Ageless Innovator
+0.12%	116	$4216	
+	Tiamat
+0.12%	115	$5176	
+	Plagon, Lord of the Beach
+0.12%	114	$3520	
+	Ms. Bumbleflower
+0.11%	108	$1731	
+	Fire Lord Azula
+0.11%	107	$4600	
+	Teval, the Balanced Scale
+0.11%	103	$1323	
+	Halana, Kessig Ranger
+0.11%	103	$3970	
+	Krenko, Mob Boss
+0.1%	102	$1055	
+	Raffine, Scheming Seer
+0.1%	98	$4340	
+	Lotho, Corrupt Shirriff
+0.1%	97	$4090	
+	Terra, Herald of Hope
+0.1%	95	$382	
+	Erinis, Gloom Stalker
+0.1%	95	$3523	
+	Gyruda, Doom of Depths
+0.1%	95	$4306	
+	Zurgo Stormrender
+0.09%	92	$645	
+	Yawgmoth, Thran Physician
+0.09%	92	$3033	
+	Breya, Etherium Shaper
+0.09%	91	$5966	
+	Valgavoth, Harrower of Souls
+0.09%	90	$557	
+	Oswald Fiddlebender
+0.09%	89	$6894	
+	Scion of the Ur-Dragon
+0.09%	87	$6830	
+	Helga, Skittish Seer
+0.09%	85	$2965	
+	Pantlaza, Sun-Favored
+0.09%	85	$1127	
+	Yisan, the Wanderer Bard
+0.09%	84	$1740	
+	Eshki, Temur's Roar
+0.09%	84	$883	
+	Cloud, Ex-SOLDIER
+0.08%	83	$391	
+	Baylen, the Haymaker
+0.08%	82	$3115	
+	Heliod, the Radiant Dawn
+0.08%	80	$6145	
+	Ukkima, Stalking Shadow
+0.08%	78	$4704	
+	Cazur, Ruthless Stalker
+0.08%	78	$4704	
+	Iron Man, Titan of Innovation
+0.08%	78	$7378	
+	Hakbal of the Surging Soul
+0.08%	78	$316	
+	Tatyova, Benthic Druid
+0.08%	77	$2107	
+	Kess, Dissident Mage
+0.08%	77	$5727	
+	Selvala, Explorer Returned
+0.08%	76	$2424	
+	Bello, Bard of the Brambles
+0.08%	76	$1011	
+	Zimone, Mystery Unraveler
+0.08%	76	$1425	
+	Xyris, the Writhing Storm
+0.08%	76	$4330	
+	Marchesa, Dealer of Death
+0.07%	73	$5850	
+	Jhoira, Weatherlight Captain
+0.07%	72	$5474	
+	Terra, Magical Adept
+0.07%	72	$6455	
+	Yidris, Maelstrom Wielder
+0.07%	71	$5880	
+	Hapatra, Vizier of Poisons
+0.07%	70	$3476	
+	Chulane, Teller of Tales
+0.07%	70	$2931	
+	Cecily, Haunted Mage
+0.07%	69	$7010	
+	Satya, Aetherflux Genius
+0.07%	69	$817	
+	Felothar the Steadfast
+0.07%	69	$208	
+	Jetmir, Nexus of Revels
+0.07%	68	$2116	
+	Ezio Auditore da Firenze
+0.07%	68	$5578	
+	Edgar Markov
+0.07%	67	$1448	
+	Ureni of the Unwritten
+0.07%	66	$638	
+	Minsc, Beloved Ranger
+0.07%	66	$3686	
+	Narset, Enlightened Exile
+0.07%	66	$4907	
+	Emry, Lurker of the Loch
+0.07%	65	$5923	
+	The Ur-Dragon
+0.07%	64	$1648	
+	Inspirit, Flagship Vessel
+0.06%	63	$90	
+	Dina, Soul Steeper
+0.06%	63	$3174	
+	Marwyn, the Nurturer
+0.06%	63	$1497	
+	Auntie Ool, Cursewretch
+0.06%	59	$1068	
+	Ulalek, Fused Atrocity
+/////	0.06%	59	$2367	
+	Nekusar, the Mindrazer
+0.06%	59	$3501	
+	Yeva, Nature's Herald
+0.06%	56	$2849	
+	Deadpool, Trading Card
+0.06%	55	$3000	
+	Mm'menon, the Right Hand
+0.06%	54	$5424	
+	Golbez, Crystal Collector
+0.06%	54	$5159	
+	Light-Paws, Emperor's Voice
+0.06%	54	$672	
+	Leonardo, the Balance
+0.05%	53	$1755	
+	Shiko and Narset, Unified
+0.05%	53	$282	
+	Esika, God of the Tree
+0.05%	52	$5898	
+	Jodah, the Unifier
+0.05%	52	$3239	
+	Ikra Shidiqi, the Usurper
+0.05%	51	$3915	
+	Ashling, Flame Dancer
+0.05%	50	$2599	
+	Nissa, Resurgent Animist
+0.05%	50	$3338	
+	Zada, Hedron Grinder
+0.05%	50	$1491	
+	Kilo, Apogee Mind
+0.05%	48	$1710	
+	Omnath, Locus of Creation
+0.05%	48	$4513	
+	Hazel of the Rootbloom
+0.05%	48	$169	
+	Éowyn, Shieldmaiden
+0.05%	48	$152	
+	Toph, the First Metalbender
+0.05%	47	$6751	
+	Lady Octopus, Inspired Inventor
+0.05%	47	$5378	
+	Pako, Arcane Retriever
+0.05%	46	$5053	
+	Sam, Loyal Attendant
+0.05%	46	$67	
+	Frodo, Adventurous Hobbit
+0.05%	46	$1533	
+	Liberator, Urza's Battlethopter
+0.05%	46	$7160	
+	Kozilek, the Great Distortion
+0.05%	45	$7712	
+	K-9, Mark I
+0.05%	45	$6783	
+	Ratadrabik of Urborg
+0.05%	45	$2814	
+	Aesi, Tyrant of Gyre Strait
+0.05%	44	$952	
+	Narset, Jeskai Waymaster
+0.04%	43	$6695	
+	The Fourteenth Doctor
+0.04%	43	$5345	
+	Lord Windgrace
+0.04%	42	$4528	
+	Grist, the Hunger Tide
+0.04%	42	$2911	
+	Maelstrom Wanderer
+0.04%	42	$3395	
+	Voja, Jaws of the Conclave
+0.04%	41	$1926	
+	Codie, Vociferous Codex
+0.04%	41	$5636	
+	Shadow the Hedgehog
+0.04%	40	$4416	
+	Kykar, Wind's Fury
+0.04%	40	$3686	
+	Captain Sisay
+0.04%	40	$4926	
+	Ghyrson Starn, Kelermorph
+0.04%	40	$1783	
+	Yusri, Fortune's Flame
+0.04%	40	$4059	
+	Kotis, the Fangkeeper
+0.04%	40	$1762	
+	Haldan, Avid Arcanist
+0.04%	40	$4863	
+	Ardenn, Intrepid Archaeologist
+0.04%	40	$4588	
+	Caesar, Legion's Emperor
+0.04%	39	$787	
+	Marath, Will of the Wild
+0.04%	39	$4142	
+	Edric, Spymaster of Trest
+0.04%	39	$3365	
+	Squall, SeeD Mercenary
+0.04%	38	$2434	
+	Thalia and The Gitrog Monster
+0.04%	38	$3206	
+	Anje Falkenrath
+0.04%	38	$1543	
+	Tannuk, Memorial Ensign
+0.04%	37	$2607	
+	Vadrik, Astral Archmage
+0.04%	37	$2399	
+	Vohar, Vodalian Desecrator
+0.04%	37	$4425	
+	Wilhelt, the Rotcleaver
+0.04%	37	$780	
+	Ketramose, the New Dawn
+0.04%	37	$2709	
+	Evelyn, the Covetous
+0.04%	36	$5477	
+	Sefris of the Hidden Ways
+0.04%	36	$3132	
+	Cloud, Midgar Mercenary
+0.04%	35	$1196	
+	Arabella, Abandoned Doll
+0.04%	35	$1150	
+	Lathril, Blade of the Elves
+0.04%	35	$877	
+	Wan Shi Tong, Librarian
+0.03%	34	$4274	
+	Vren, the Relentless
+0.03%	34	$1333	
+	Kamahl, Heart of Krosa
+0.03%	34	$2926	
+	Omnath, Locus of All
+0.03%	33	$6733	
+	Eladamri, Korvecdal
+0.03%	33	$1369	
+	Teferi, Temporal Archmage
+0.03%	32	$6756	
+	Storm, Force of Nature
+0.03%	32	$3559	
+	Yuna, Grand Summoner
+0.03%	31	$2558	
+	Omo, Queen of Vesuva
+0.03%	31	$216	
+	Commodore Guff
+0.03%	31	$484	
+	Clavileño, First of the Blessed
+0.03%	31	$146	
+	Azami, Lady of Scrolls
+0.03%	31	$4391	
+	Sami, Wildcat Captain
+0.03%	30	$6144	
+	Choco, Seeker of Paradise
+0.03%	30	$741	
+	Shalai and Hallar
+0.03%	30	$3344	
+	Elmar, Ulvenwald Informant
+0.03%	30	$5595	
+	Orvar, the All-Form
+0.03%	30	$2199	
+	Kotis, Sibsig Champion
+0.03%	30	$368	
+	Temmet, Naktamun's Will
+0.03%	30	$210	
+	Admiral Brass, Unsinkable
+0.03%	30	$133	
+	Sephiroth, Fabled SOLDIER
+0.03%	29	$1691	
+	Galadriel, Light of Valinor
+0.03%	29	$1921	
+	Brago, King Eternal
+0.03%	29	$1772	
+	Purphoros, God of the Forge
+0.03%	29	$1009	
+	The First Sliver
+0.03%	29	$3213	
+	Muxus, Goblin Grandee
+0.03%	28	$2577	
+	Teshar, Ancestor's Apostle
+0.03%	28	$5994	
+	Winter, Cynical Opportunist
+0.03%	28	$294	
+	Slimefoot and Squee
+0.03%	28	$2580	
+	Sauron, Lord of the Rings
+0.03%	27	$143	
+	The Jolly Balloon Man
+0.03%	27	$3657	
+	Gretchen Titchwillow
+0.03%	27	$2161	
+	Veyran, Voice of Duality
+0.03%	27	$1134	
+	Zinnia, Valley's Voice
+0.03%	27	$864	
+	Morska, Undersea Sleuth
+0.03%	27	$323	
+	Katara, Waterbending Master
+0.03%	26	$2935	
+	Lightning, Army of One
+0.03%	26	$792	
+	Emiel the Blessed
+0.03%	26	$3419	
+	Braids, Arisen Nightmare
+0.03%	26	$3700	
+	Mr. House, President and CEO
+0.03%	26	$845	
+	Hinata, Dawn-Crowned
+0.03%	26	$1778	
+	Redshift, Rocketeer Chief
+0.03%	26	$3326	
+	Breeches, Brazen Plunderer
+0.03%	26	$1831	
+	Oloro, Ageless Ascetic
+0.03%	26	$2609	
+	Disa the Restless
+0.03%	25	$1018	
+	Prosper, Tome-Bound
+0.03%	25	$2944	
+	Aragorn, the Uniter
+0.03%	25	$2999	
+	Minsc & Boo, Timeless Heroes
+0.03%	25	$1634	
+	Go-Shintai of Life's Origin
+0.03%	25	$2221	
+	Lonis, Cryptozoologist
+0.03%	25	$3056	
+	Glacian, Powerstone Engineer
+0.02%	24	$4966	
+	Atraxa, Praetors' Voice
+0.02%	24	$1719	
+	Meria, Scholar of Antiquity
+0.02%	24	$6733	
+	Satoru Umezawa
+0.02%	24	$703	
+	Cormela, Glamour Thief
+0.02%	24	$5096	
+	Anikthea, Hand of Erebos
+0.02%	24	$861	
+	Aminatou, Veil Piercer
+0.02%	24	$1611	
+	Thada Adel, Acquisitor
+0.02%	24	$4402	
+	Giada, Font of Hope
+0.02%	24	$655	
+	Sidar Jabari of Zhalfir
+0.02%	24	$1106	
+	Henzie "Toolbox" Torre
+0.02%	24	$606	
+	Unesh, Criosphinx Sovereign
+0.02%	24	$3255	
+	Othelm, Sigardian Outcast
+0.02%	23	$4504	
+	Aang, at the Crossroads
+0.02%	23	$3870	
+	Rocco, Street Chef
+0.02%	23	$813	
+	Tifa Lockhart
+0.02%	23	$955	
+	The War Doctor
+0.02%	23	$5354	
+	Kadena, Slinking Sorcerer
+0.02%	23	$3415	
+	Atla Palani, Nest Tender
+0.02%	23	$3045	
+	The Infamous Cruelclaw
+0.02%	23	$2618	
+	Abdel Adrian, Gorion's Ward
+0.02%	23	$862	
+	Captain N'ghathrod
+0.02%	23	$370	
+	Zaxara, the Exemplary
+0.02%	23	$3172	
+	Grand Arbiter Augustin IV
+0.02%	23	$2614	
+	Sauron, the Dark Lord
+0.02%	23	$3237	
+	Davros, Dalek Creator
+0.02%	23	$175	
+	Meren of Clan Nel Toth
+0.02%	23	$1483	
+	Prossh, Skyraider of Kher
+0.02%	23	$3441	
+	Cecil Harvey
+0.02%	22	$5933	
+	Hidetsugu and Kairi
+0.02%	22	$2671	
+	The Necrobloom
+0.02%	22	$2947	
+	Azusa, Lost but Seeking
+0.02%	22	$1992	
+	Lavinia, Azorius Renegade
+0.02%	22	$4400	
+	Raggadragga, Goreguts Boss
+0.02%	22	$1604	
+	Bruvac the Grandiloquent
+0.02%	22	$2659	
+	Slicer, Hired Muscle
+0.02%	22	$7019	
+	Teysa Karlov
+0.02%	22	$1458	
+	Be'lakor, the Dark Master
+0.02%	22	$3253	
+	Longshot, Rebel Bowman
+0.02%	22	$4299	
+	The Cabbage Merchant
+0.02%	21	$4404	
+	Mirko, Obsessive Theorist
+0.02%	21	$159	
+	Captain America, First Avenger
+0.02%	21	$3731	
+	Heliod, Sun-Crowned
+0.02%	21	$4210	
+	Loot, the Key to Everything
+0.02%	21	$7266	
+	Old Stickfingers
+0.02%	21	$3310	
+	Samwise Gamgee
+0.02%	21	$3841	
+	Gev, Scaled Scorch
+0.02%	21	$2944	
+	Toxrill, the Corrosive
+0.02%	21	$2522	
+	Sheoldred, the Apocalypse
+0.02%	21	$1515	
+	Yarok, the Desecrated
+0.02%	21	$1582	
+	The Beamtown Bullies
+0.02%	21	$2078	
+	Gonti, Canny Acquisitor
+0.02%	21	$370	
+	Ragost, Deft Gastronaut
+0.02%	21	$2389	
+	The Reaper, King No More
+0.02%	20	$3119	
+	Jaws, Relentless Predator
+0.02%	20	$5405	
+	Alaundo the Seer
+0.02%	20	$3862	
+	Grenzo, Dungeon Warden
+0.02%	20	$2498	
+	Szarekh, the Silent King
+0.02%	20	$238	
+	Marina Vendrell
+0.02%	20	$2077	
+	The Master, Transcendent
+0.02%	20	$2224	
+	Alexios, Deimos of Kosmos
+0.02%	20	$1587	
+	Teysa, Orzhov Scion
+0.02%	20	$1975	
+	Rona, Herald of Invasion
+0.02%	20	$4558	
+	Miirym, Sentinel Wyrm
+0.02%	20	$900	
+	Bladewing the Risen
+0.02%	20	$3689	
+	Acererak the Archlich
+0.02%	20	$2055	
+	Dogmeat, Ever Loyal
+0.02%	20	$149	
+	Barnabas Tharmr
+0.02%	20	$6947	
+	Norman Osborn
+0.02%	19	$5259	
+	Leonardo da Vinci
+0.02%	19	$2050	
+	Ashaya, Soul of the Wild
+0.02%	19	$1941	
+	Gishath, Sun's Avatar
+0.02%	19	$915	
+	Sophina, Spearsage Deserter
+0.02%	18	$7181	
+	Raph & Mikey, Troublemakers
+0.02%	18	$2412	
+	Jin Sakai, Ghost of Tsushima
+0.02%	18	$4270	
+	Szarel, Genesis Shepherd
+0.02%	18	$181	
+	Imoti, Celebrant of Bounty
+0.02%	18	$2167	
+	Ixhel, Scion of Atraxa
+0.02%	18	$653	
+	Yasharn, Implacable Earth
+0.02%	18	$2131	
+	Nelly Borca, Impulsive Accuser
+0.02%	18	$120	
+	Esior, Wardwing Familiar
+0.02%	18	$5811	
+	Muldrotha, the Gravetide
+0.02%	18	$1913	
+	Tamiyo, Inquisitive Student
+0.02%	18	$3442	
+	Armix, Filigree Thrasher
+0.02%	18	$5962	
+	Tegwyll, Duke of Splendor
+0.02%	18	$251	
+	Magus Lucea Kane
+0.02%	17	$861	
+	Grolnok, the Omnivore
+0.02%	17	$3721	
+	The Tenth Doctor
+0.02%	17	$140	
+	Eluge, the Shoreless Sea
+0.02%	17	$1460	
+	Basim Ibn Ishaq
+0.02%	17	$4775	
+	Niv-Mizzet, Visionary
+0.02%	17	$3197	
+	Liesa, Shroud of Dusk
+0.02%	17	$2714	
+	Mendicant Core, Guidelight
+0.02%	17	$1216	
+	Hope Estheim
+0.02%	16	$489	
+	Child of Alara
+0.02%	16	$3414	
+	Rionya, Fire Dancer
+0.02%	16	$2990	
+	Aminatou, the Fateshifter
+0.02%	16	$3070	
+	Neyali, Suns' Vanguard
+0.02%	16	$111	
+	Kona, Rescue Beastie
+0.02%	16	$1547	
+	Kotori, Pilot Prodigy
+0.02%	16	$90	
+	Elsha, Threefold Master
+0.02%	16	$990	
+	Saheeli, Radiant Creator
+0.02%	16	$277	
+	Lonis, Genetics Expert
+0.02%	16	$3938	
+	Alphinaud Leveilleur
+0.02%	15	$1456	
+	Keskit, the Flesh Sculptor
+0.02%	15	$554	
+	Hei Bai, Forest Guardian
+0.02%	15	$2171	
+	Superior Spider-Man
+0.02%	15	$4236	
+	Alisaie Leveilleur
+0.02%	15	$1456	
+	Tinybones, Trinket Thief
+0.02%	15	$2671	
+	Kutzil, Malamet Exemplar
+0.02%	15	$2420	
+	Fynn, the Fangbearer
+0.02%	15	$512	
+	Arcades, the Strategist
+0.02%	15	$403	
+	Queza, Augur of Agonies
+0.02%	15	$2082	
+	Tinybones, Bauble Burglar
+0.02%	15	$2961	
+	Trazyn the Infinite
+0.02%	15	$10100	
+	Dr. Madison Li
+0.02%	15	$625	
+	Oskar, Rubbish Reclaimer
+0.02%	15	$6231	
+	Sliver Overlord
+0.02%	15	$2164	
+	Will the Wise
+0.01%	14	$6753	
+	Iroh, Grand Lotus
+0.01%	14	$3957	
+	Sarah Jane Smith
+0.01%	14	$3145	
+	Emmara, Soul of the Accord
+0.01%	14	$1776	
+	Urianger Augurelt
+0.01%	14	$4382	
+	Baral, Chief of Compliance
+0.01%	14	$1280	
+	Ygra, Eater of All
+0.01%	14	$1327	
+	Gale, Waterdeep Prodigy
+0.01%	14	$4313	
+	Okaun, Eye of Chaos
+0.01%	14	$3215	
+	The Thirteenth Doctor
+0.01%	14	$106	
+	Vhal, Candlekeep Researcher
+0.01%	14	$5905	
+	Urtet, Remnant of Memnarch
+0.01%	14	$1064	
+	Padeem, Consul of Innovation
+0.01%	14	$8241	
+	Ruric Thar, the Unbowed
+0.01%	14	$2527	
+	Kydele, Chosen of Kruphix
+0.01%	14	$5162	
+	The Pride of Hull Clade
+0.01%	14	$3395	
+	Jacob Hauken, Inspector
+0.01%	14	$3073	
+	Laelia, the Blade Reforged
+0.01%	14	$350	
+	Alela, Cunning Conqueror
+0.01%	14	$714	
+	Rydia, Summoner of Mist
+0.01%	14	$4160	
+	Michelangelo, the Heart
+0.01%	13	$3872	
+	Shabraz, the Skyshark
+0.01%	13	$4830	
+	Professor Hojo
+0.01%	13	$2983	
+	Zenos yae Galvus
+0.01%	13	$828	
+	Kuja, Genome Sorcerer
+0.01%	13	$764	
+	Aragorn, King of Gondor
+0.01%	13	$1523	
+	Xenagos, God of Revels
+0.01%	13	$808	
+	Mizzix of the Izmagnus
+0.01%	13	$3896	
+	Karlach, Fury of Avernus
+0.01%	13	$1705	
+	Eriette of the Charmed Apple
+0.01%	13	$320	
+	Koll, the Forgemaster
+0.01%	13	$3735	
+	Zurgo and Ojutai
+0.01%	13	$5333	
+	Galadriel, Elven-Queen
+0.01%	13	$546	
+	Daretti, Scrap Savant
+0.01%	13	$6988	
+	Marvin, Murderous Mimic
+0.01%	13	$6267	
+	Rakdos, Lord of Riots
+0.01%	13	$3174	
+	Betor, Ancestor's Voice
+0.01%	13	$807	
+	Ob Nixilis of the Black Oath
+0.01%	13	$109	
+	Isshin, Two Heavens as One
+0.01%	13	$711	
+	Kwain, Itinerant Meddler
+0.01%	13	$1806	
+	Zimone and Dina
+0.01%	13	$1950	
+	Marvo, Deep Operative
+0.01%	13	$601	
+	Zndrsplt, Eye of Wisdom
+0.01%	12	$2876	
+	Toggo, Goblin Weaponsmith
+0.01%	12	$1053	
+	Kethis, the Hidden Hand
+0.01%	12	$5160	
+	Tannuk, Steadfast Second
+0.01%	12	$2012	
+	Rose Tyler
+0.01%	12	$761	
+	Jenova, Ancient Calamity
+0.01%	12	$1233	
+	Nymris, Oona's Trickster
+0.01%	12	$1211	
+	Faldorn, Dread Wolf Herald
+0.01%	12	$178	
+	Jodah, Archmage Eternal
+0.01%	12	$1219	
+	Gandalf the White
+0.01%	12	$6179	
+	Medomai the Ageless
+0.01%	12	$135	
+	Urza, Chief Artificer
+0.01%	12	$676	
+	Ghave, Guru of Spores
+0.01%	12	$2899	
+	The Locust God
+0.01%	12	$1771	
+	Wayta, Trainer Prodigy
+0.01%	12	$619	
+	Teval, Arbiter of Virtue
+0.01%	12	$4020	
+	Tergrid, God of Fright
+0.01%	12	$2992	
+	Jeleva, Nephalia's Scourge
+0.01%	12	$5345	
+	Lazav, the Multifarious
+0.01%	12	$4402	
+	Sen Triplets
+0.01%	12	$5900	
+	Roxanne, Starfall Savant
+0.01%	12	$2689	
+	Varina, Lich Queen
+0.01%	12	$1444	
+	Brallin, Skyshark Rider
+0.01%	12	$5220	
+	Tom Bombadil
+0.01%	12	$215	
+	Finneas, Ace Archer
+0.01%	12	$841	
+	Mishra, Eminent One
+0.01%	12	$742	
+	Don Andres, the Renegade
+0.01%	12	$1024	
+	Lucas, the Sharpshooter
+0.01%	12	$7338	
+	Malcolm, Alluring Scoundrel
+0.01%	12	$1145	
+	Renari, Merchant of Marvels
+0.01%	11	$4887	
+	Sai, Master Thopterist
+0.01%	11	$6369	
+	Kardur, Doomscourge
+0.01%	11	$108	
+	Kynaios and Tiro of Meletis
+0.01%	11	$459	
+	Unctus, Grand Metatect
+0.01%	11	$2531	
+	Elas il-Kor, Sadistic Pilgrim
+0.01%	11	$2211	
+	Ludevic, Necro-Alchemist
+0.01%	11	$5664	
+	Edward Kenway
+0.01%	11	$2295	
+	Kalamax, the Stormsire
+0.01%	11	$2585	
+	Ovika, Enigma Goliath
+0.01%	11	$636	
+	Ezuri, Renegade Leader
+0.01%	11	$885	
+	Prime Speaker Vannifar
+0.01%	11	$2007	
+	Six
+0.01%	11	$6077	
+	Gilanra, Caller of Wirewood
+0.01%	11	$562	
+	Coram, the Undertaker
+0.01%	11	$3261	
+	Ragavan, Nimble Pilferer
+0.01%	11	$3580	
+	Zimone, Paradox Sculptor
+0.01%	11	$119	
+	Rhys the Redeemed
+0.01%	11	$1237	
+	Tormod, the Desecrator
+0.01%	10	$4589	
+	Monk Gyatso
+0.01%	10	$2538	
+	Sidar Kondo of Jamuraa
+0.01%	10	$3082	
+	Halana and Alena, Partners
+0.01%	10	$506	
+	Tellah, Great Sage
+0.01%	10	$489	
+	Rin and Seri, Inseparable
+0.01%	10	$360	
+	Gilgamesh, Master-at-Arms
+0.01%	10	$2586	
+	Naru Meha, Master Wizard
+0.01%	10	$1964	
+	Nezahal, Primal Tide
+0.01%	10	$3808	
+	Rev, Tithe Extractor
+0.01%	10	$3132	
+	Vadrok, Apex of Thunder
+0.01%	10	$3794	
+	Saffi Eriksdotter
+0.01%	10	$3243	
+	Adeline, Resplendent Cathar
+0.01%	10	$464	
+	Umbris, Fear Manifest
+0.01%	10	$3731	
+	Morophon, the Boundless
+0.01%	10	$1429	
+	Solphim, Mayhem Dominus
+0.01%	10	$905	
+	Ojer Axonil, Deepest Might
+0.01%	10	$1517	
+	Obeka, Splitter of Seconds
+0.01%	10	$1907	
+	Syr Konrad, the Grim
+0.01%	10	$548	
+	Lord of the Nazgûl
+0.01%	10	$850	
+	Yuma, Proud Protector
+0.01%	10	$124	
+	Nalia de'Arnise
+0.01%	10	$132	
+	Tatsunari, Toad Rider
+0.01%	10	$1952	
+	Vnwxt, Verbose Host
+0.01%	10	$1515	
+	Urabrask
+0.01%	10	$2645	
+	Yasmin Khan
+0.01%	9	$101	
+	Tifa, Martial Artist
+0.01%	9	$597	
+	Cosmic Spider-Man
+0.01%	9	$230	
+	Breena, the Demagogue
+0.01%	9	$301	
+	Infinite Guideline Station
+0.01%	9	$1030	
+	Titania, Protector of Argoth
+0.01%	9	$2327	
+	Sliver Queen
+0.01%	9	$1793	
+	Camellia, the Seedmiser
+0.01%	9	$138	
+	Olivia, Opulent Outlaw
+0.01%	9	$143	
+	Gix, Yawgmoth Praetor
+0.01%	9	$274	
+	Ayara, First of Locthwain
+0.01%	9	$390	
+	Strefan, Maurer Progenitor
+0.01%	9	$130	
+	Phlage, Titan of Fire's Fury
+0.01%	9	$848	
+	Elminster
+0.01%	9	$1306	
+	Katilda, Dawnhart Prime
+0.01%	9	$1426	
+	Jared Carthalion
+0.01%	9	$490	
+	Ganax, Astral Hunter
+0.01%	9	$1914	
+	Tazri, Beacon of Unity
+0.01%	9	$5099	
+	Feather, the Redeemed
+0.01%	9	$154	
+	Satoru, the Infiltrator
+0.01%	9	$3353	
+	Zurgo, Thunder's Decree
+0.01%	9	$290	
+	Millicent, Restless Revenant
+0.01%	9	$355	
+	Wilson, Refined Grizzly
+0.01%	9	$553	
+	Egrix the Bile Bulwark
+0.01%	9	$4204	
+	Buttercup, Provincial Princess
+0.01%	9	$5866	
+	Toothy, Imaginary Friend
+0.01%	8	$2439	
+	Ellie, Vengeful Hunter
+0.01%	8	$195	
+	Tidus, Zanarkand Fayth
+0.01%	8	$8475	
+	Seymour Guado
+0.01%	8	$4537	
+	Kumena, Tyrant of Orazca
+0.01%	8	$1438	
+	Alena, Kessig Trapper
+0.01%	8	$150	
+	Sliver Hivelord
+0.01%	8	$990	
+	Sergeant John Benton
+0.01%	8	$905	
+	Shirei, Shizo's Caretaker
+0.01%	8	$110	
+	Hanna, Ship's Navigator
+0.01%	8	$612	
+	Braids, Cabal Minion
+0.01%	8	$5020	
+	Rielle, the Everwise
+0.01%	8	$4902	
+	Abaddon the Despoiler
+0.01%	8	$668	
+	Treebeard, Gracious Host
+0.01%	8	$948	
+	Phelia, Exuberant Shepherd
+0.01%	8	$561	
+	Niv-Mizzet Reborn
+0.01%	8	$3298	
+	River Song
+0.01%	8	$3659	
+	Keleth, Sunmane Familiar
+0.01%	8	$593	
+	Phenax, God of Deception
+0.01%	8	$820	
+	Arixmethes, Slumbering Isle
+0.01%	8	$1404	
+	Zacama, Primal Calamity
+0.01%	8	$1759	
+	Ao, the Dawn Sky
+0.01%	8	$2086	
+	Imskir Iron-Eater
+0.01%	8	$5161	
+	Pir, Imaginative Rascal
+0.01%	8	$2439	
+	Stenn, Paranoid Partisan
+0.01%	8	$1692	
+	Atarka, World Render
+0.01%	8	$197	
+	Shiko, Paragon of the Way
+0.01%	8	$3984	
+	The Sixth Doctor
+0.01%	8	$4794	
+	Indominus Rex, Alpha
+0.01%	8	$788	
+	The Lord of Pain
+0.01%	8	$455	
+	Karador, Ghost Chieftain
+0.01%	8	$1157	
+	Obuun, Mul Daya Ancestor
+0.01%	8	$121	
+	Sliver Gravemother
+0.01%	8	$171	
+	Osgir, the Reconstructor
+0.01%	8	$1532	
+	Ghired, Mirror of the Wilds
+0.01%	8	$1426	
+	Sidisi, Brood Tyrant
+0.01%	8	$1737	
+	Phage the Untouchable
+0.01%	8	$1076	
+	Alania, Divergent Storm
+0.01%	8	$897	
+	Tovolar, Dire Overlord
+0.01%	8	$135	
+	General Ferrous Rokiric
+0.01%	8	$239	
+	Kratos, Stoic Father
+0.01%	7	$1559	
+	Bre of Clan Stoutarm
+0.01%	7	$476	
+	Rigo, Streetwise Mentor
+0.01%	7	$187	
+	Gran-Gran
+0.01%	7	$3257	
+	Atreus, Impulsive Son
+0.01%	7	$1559	
+	Doc Aurlock, Grizzled Genius
+0.01%	7	$125	
+	Lurrus of the Dream-Den
+0.01%	7	$4830	
+	Goben, Gene-Splice Savant
+0.01%	7	$6064	
+	Sonic the Hedgehog
+0.01%	7	$636	
+	Niko, Light of Hope
+0.01%	7	$160	
+	Amalia Benavides Aguirre
+0.01%	7	$132	
+	Anzrag, the Quake-Mole
+0.01%	7	$1216	
+	Toluz, Clever Conductor
+0.01%	7	$6094	
+	Nadier, Agent of the Duskenel
+0.01%	7	$5113	
+	Garnet, Princess of Alexandria
+0.01%	7	$368	
+	Nashi, Searcher in the Dark
+0.01%	7	$4283	
+	Rasputin Dreamweaver
+0.01%	7	$4411	
+	Fandaniel, Telophoroi Ascian
+0.01%	7	$3519	
+	Wort, the Raidmother
+0.01%	7	$265	
+	Mairsil, the Pretender
+0.01%	7	$4795	
+	Lyse Hext
+0.01%	7	$2543	
+	Emet-Selch, Unsundered
+0.01%	7	$1213	
+	Queen Marchesa
+0.01%	7	$605	
+	Adrix and Nev, Twincasters
+0.01%	7	$284	
+	Volo, Itinerant Scholar
+0.01%	7	$4169	
+	Firkraag, Cunning Instigator
+0.01%	7	$161	
+	Lathiel, the Bounteous Dawn
+0.01%	7	$161	
+	Jenson Carthalion, Druid Exile
+0.01%	7	$7884	
+	Magar of the Magic Strings
+0.01%	7	$2691	
+	Torbran, Thane of Red Fell
+0.01%	7	$1218	
+	Eshki Dragonclaw
+0.01%	7	$170	
+	Danny Pink
+0.01%	7	$1987	
+	Svyelun of Sea and Sky
+0.01%	7	$648	
+	Vito, Thorn of the Dusk Rose
+0.01%	7	$938	
+	Volo, Guide to Monsters
+0.01%	7	$2243	
+	Alela, Artful Provocateur
+0.01%	7	$1406	
+	Kasla, the Broken Halo
+0.01%	7	$2569	
+	Shroofus Sproutsire
+0.01%	7	$357	
+	Muerra, Trash Tactician
+0.01%	7	$235	
+	Kambal, Consul of Allocation
+0.01%	7	$927	
+	Marrow-Gnawer
+0.01%	7	$482	
+	Loot, Exuberant Explorer
+0.01%	7	$337	
+	Winter, Misanthropic Guide
+0.01%	7	$3833	
+	The Mimeoplasm
+0.01%	7	$3808	
+	Karlov of the Ghost Council
+0.01%	7	$467	
+	Judith, Carnage Connoisseur
+0.01%	7	$301	
+	Nicol Bolas, the Ravager
+0.01%	7	$2170	
+	Hansk, Slayer Zealot
+0.01%	7	$3820	
+	Balthor the Defiled
+0.01%	7	$5034	
+	Slimefoot, the Stowaway
+0.01%	7	$1460	
+	Garth One-Eye
+0.01%	7	$4193	
+	Zellix, Sanity Flayer
+0.01%	7	$808	
+	Willowdusk, Essence Seer
+0.01%	7	$271	
+	Talrand, Sky Summoner
+0.01%	7	$1147	
+	Toph, Hardheaded Teacher
+0.01%	7	$2459	
+	Splinter, the Mentor
+0.01%	6	$7620	
+	High Perfect Morcant
+0.01%	6	$662	
+	Doran, Besieged by Time
+0.01%	6	$749	
+	Witch-king, Sky Scourge
+0.01%	6	$1677	
+	Sokka, Tenacious Tactician
+0.01%	6	$1096	
+	Pramikon, Sky Rampart
+0.01%	6	$144	
+	Fire Lord Ozai
+0.01%	6	$3399	
+	Fire Lord Zuko
+0.01%	6	$435	
+	Jackal, Genius Geneticist
+0.01%	6	$4624	
+	Kratos, God of War
+0.01%	6	$1192	
+	Dragonhawk, Fate's Tempest
+0.01%	6	$1507	
+	Saheeli, the Gifted
+0.01%	6	$5355	
+	Zurzoth, Chaos Rider
+0.01%	6	$2872	
+	Ivy, Gleeful Spellthief
+0.01%	6	$731	
+	Ultima, Origin of Oblivion
+0.01%	6	$3841	
+	Yennett, Cryptic Sovereign
+0.01%	6	$2554	
+	Ardbert, Warrior of Darkness
+0.01%	6	$304	
+	Gogo, Master of Mimicry
+0.01%	6	$5018	
+	Aerith, Last Ancient
+0.01%	6	$251	
+	Imotekh the Stormlord
+0.01%	6	$456	
+	Orah, Skyclave Hierophant
+0.01%	6	$1182	
+	The Swarmlord
+0.01%	6	$471	
+	Jinnie Fay, Jetmir's Second
+0.01%	6	$711	
+	Jarad, Golgari Lich Lord
+0.01%	6	$1894	
+	Klothys, God of Destiny
+0.01%	6	$433	
+	Oviya, Automech Artisan
+0.01%	6	$1864	
+	Adeliz, the Cinder Wind
+0.01%	6	$114	
+	Ramos, Dragon Engine
+0.01%	6	$2888	
+	Varragoth, Bloodsky Sire
+0.01%	6	$3212	
+	Omnath, Locus of Rage
+0.01%	6	$399	
+	Ashcoat of the Shadow Swarm
+0.01%	6	$1379	
+	Karn, Legacy Reforged
+0.01%	6	$2419	
+	Vihaan, Goldwaker
+0.01%	6	$3759	
+	Syr Gwyn, Hero of Ashvale
+0.01%	6	$853	
+	Birgi, God of Storytelling
+0.01%	6	$1616	
+	Zevlor, Elturel Exile
+0.01%	6	$381	
+	Ziatora, the Incinerator
+0.01%	6	$422	
+	Jan Jansen, Chaos Crafter
+0.01%	6	$2990	
+	Burakos, Party Leader
+0.01%	6	$3948	
+	Ghalta, Primal Hunger
+0.01%	6	$407	
+	Borborygmos and Fblthp
+0.01%	6	$5455	
+	Ezuri, Claw of Progress
+0.01%	6	$468	
+	Livio, Oathsworn Sentinel
+0.01%	6	$3610	
+	Kambal, Profiteering Mayor
+0.01%	6	$3981	
+	Maha, Its Feathers Night
+0.01%	6	$364	
+	Bria, Riptide Rogue
+0.01%	6	$232	
+	Gonti, Night Minister
+0.01%	6	$229	
+	Dionus, Elvish Archdruid
+0.01%	6	$1338	
+	Joel, Resolute Survivor
+0.01%	5	$302	
+	Vislor Turlough
+0.01%	5	$6076	
+	Abby, Merciless Soldier
+0.01%	5	$4563	
+	Noctis, Heir Apparent
+0.01%	5	$1832	
+	Rosheen, Roaring Prophet
+0.01%	5	$2445	
+	Spider-Man 2099
+0.01%	5	$417	
+	Doctor Octopus, Master Planner
+0.01%	5	$5319	
+	Anti-Venom, Horrifying Healer
+0.01%	5	$244	
+	Shaun, Father of Synths
+0.01%	5	$154	
+	Ghoulcaller Gisa
+0.01%	5	$418	
+	Miara, Thorn of the Glade
+0.01%	5	$2735	
+	Uril, the Miststalker
+0.01%	5	$705	
+	Galadriel of Lothlórien
+0.01%	5	$559	
+	Golden Argosy
+0.01%	5	$329	
+	Dawnsire, Sunstar Dreadnought
+0.01%	5	$548	
+	Aerith Gainsborough
+0.01%	5	$853	
+	Obyra, Dreaming Duelist
+0.01%	5	$604	
+	Amy Rose
+0.01%	5	$819	
+	Vanille, Cheerful l'Cie
+0.01%	5	$218	
+	Gut, True Soul Zealot
+0.01%	5	$512	
+	Carmen, Cruel Skymarcher
+0.01%	5	$3176	
+	Saruman, the White Hand
+0.01%	5	$1414	
+	Kellan, the Kid
+0.01%	5	$3205	
+	Gisa and Geralf
+0.01%	5	$220	
+	Shelinda, Yevon Acolyte
+0.01%	5	$2204	
+	Maralen of the Mornsong
+0.01%	5	$1211	
+	G'raha Tia, Scion Reborn
+0.01%	5	$991	
+	Sin, Spira's Punishment
+0.01%	5	$393	
+	Zilortha, Strength Incarnate
+0.01%	5	$163	
+	The Emperor of Palamecia
+0.01%	5	$243	
+	Reaper King
+0.01%	5	$1743	
+	Mr. Foxglove
+0.01%	5	$1229	
+	Setzer, Wandering Gambler
+0.01%	5	$903	
+	Zidane, Tantalus Thief
+0.01%	5	$421	
+	Freyalise, Llanowar's Fury
+0.01%	5	$542	
+	Ravos, Soultender
+0.01%	5	$3166	
+	Myrel, Shield of Argive
+0.01%	5	$948	
+	Brimaz, Blight of Oreskos
+0.01%	5	$307	
+	Yargle and Multani
+0.01%	5	$1582	
+	Sygg, River Cutthroat
+0.01%	5	$1205	
+	Merieke Ri Berit
+0.01%	5	$4519	
+	Karametra, God of Harvests
+0.01%	5	$723	
+	Jace, Vryn's Prodigy
+0.01%	5	$5769	
+	Wyll, Blade of Frontiers
+0.01%	5	$486	
+	Fblthp, the Lost
+0.01%	5	$4352	
+	Vishgraz, the Doomhive
+0.01%	5	$2090	
+	Octavia, Living Thesis
+0.01%	5	$106	
+	Araumi of the Dead Tide
+0.01%	5	$1226	
+	Edgar, Charmed Groom
+0.01%	5	$140	
+	Narci, Fable Singer
+0.01%	5	$141	
+	Koma, World-Eater
+0.01%	5	$175	
+	Arna Kennerüd, Skycaptain
+0.01%	5	$737	
+	Pia Nalaar, Consul of Revival
+0.01%	5	$249	
+	Otharri, Suns' Glory
+0.01%	5	$509	
+	Dosan the Falling Leaf
+0.01%	5	$3333	
+	Gargos, Vicious Watcher
+0.01%	5	$509	
+	Sharuum the Hegemon
+0.01%	5	$3915	
+	Calix, Guided by Fate
+0.01%	5	$411	
+	Felothar, Dawn of the Abzan
+0.01%	5	$1760	
+	Delina, Wild Mage
+0.01%	5	$1213	
+	Rashmi, Eternities Crafter
+0.01%	5	$1937	
+	Wyleth, Soul of Steel
+0.01%	5	$257	
+	Kamiz, Obscura Oculus
+0.01%	5	$238	
+	Neriv, Heart of the Storm
+0.01%	5	$457	
+	The Mycotyrant
+0.01%	5	$280	
+	Gluntch, the Bestower
+0.01%	5	$195	
+	Teysa, Opulent Oligarch
+0.01%	5	$1524	
+	Wolverine, Best There Is
+0.01%	5	$487	
+	Brenard, Ginger Sculptor
+0.01%	5	$1438	
+	Kroxa, Titan of Death's Hunger
+0.01%	5	$4573	
+	General Tazri
+0.01%	5	$2909	
+	Arahbo, Roar of the World
+0.01%	5	$315	
+	Wick, the Whorled Mind
+0.01%	5	$4589	
+	Ureni, the Song Unending
+0.01%	5	$1490	
+	Mogis, God of Slaughter
+0.01%	5	$2155	
+	Archelos, Lagoon Mystic
+0.01%	5	$2021	
+	The Scarab God
+0.01%	5	$1530	
+	Goro-Goro and Satoru
+0.01%	5	$548	
+	Lier, Disciple of the Drowned
+0.01%	5	$4356	
+	Selvala, Eager Trailblazer
+0%	4	$136	
+	Bhaal, Lord of Murder
+0%	4	$137	
+	Brigid, Clachan's Heart
+0%	4	$1297	
+	Lluwen, Imperfect Naturalist
+0%	4	$201	
+	Anafenza, the Foremost
+0%	4	$376	
+	Eddie Brock
+0%	4	$401	
+	Ellie, Brick Master
+0%	4	$1271	
+	Avatar Aang
+0%	4	$3639	
+	Arthur, Marigold Knight
+0%	4	$2956	
+	Nathan Drake, Treasure Hunter
+0%	4	$1671	
+	Dr. Eggman
+0%	4	$2410	
+	Wort, Boggart Auntie
+0%	4	$1802	
+	Kudo, King Among Bears
+0%	4	$1588	
+	The Rani
+0%	4	$363	
+	Myrkul, Lord of Bones
+0%	4	$2927	
+	The Fifteenth Doctor
+0%	4	$575	
+	Bristly Bill, Spine Sower
+0%	4	$602	
+	Three Dog, Galaxy News DJ
+0%	4	$121	
+	Malik, Grim Manipulator
+0%	4	$3091	
+	Prava of the Steel Legion
+0%	4	$184	
+	Alandra, Sky Dreamer
+0%	4	$159	
+	Syr Vondam, Sunstar Exemplar
+0%	4	$806	
+	Lagrella, the Magpie
+0%	4	$1868	
+	Dyadrine, Synthesis Amalgam
+0%	4	$588	
+	Black Panther, Wakandan King
+0%	4	$1469	
+	Elesh Norn, Mother of Machines
+0%	4	$631	
+	Tuvasa the Sunlit
+0%	4	$4067	
+	Sigarda, Font of Blessings
+0%	4	$1237	
+	Shadow, Mysterious Assassin
+0%	4	$501	
+	Cid, Timeless Artificer
+0%	4	$635	
+	Olivia, Crimson Bride
+0%	4	$716	
+	Ertha Jo, Frontier Mentor
+0%	4	$216	
+	Momir Vig, Simic Visionary
+0%	4	$2363	
+	Jon Irenicus, Shattered One
+0%	4	$286	
+	Sephara, Sky's Blade
+0%	4	$89	
+	Yuna, Hope of Spira
+0%	4	$653	
+	Ardyn, the Usurper
+0%	4	$367	
+	Koma, Cosmos Serpent
+0%	4	$2385	
+	Urza, Lord Protector
+0%	4	$1793	
+	Ranar the Ever-Watchful
+0%	4	$103	
+	Sokrates, Athenian Teacher
+0%	4	$360	
+	Inquisitor Greyfax
+0%	4	$264	
+	Delney, Streetwise Lookout
+0%	4	$2735	
+	Ruhan of the Fomori
+0%	4	$731	
+	The Valeyard
+0%	4	$552	
+	Captain Howler, Sea Scourge
+0%	4	$1695	
+	Shelob, Child of Ungoliant
+0%	4	$207	
+	Anim Pakal, Thousandth Moon
+0%	4	$504	
+	Alesha, Who Smiles at Death
+0%	4	$1866	
+	Red Death, Shipwrecker
+0%	4	$521	
+	Yurlok of Scorch Thrash
+0%	4	$293	
+	Magda, the Hoardmaster
+0%	4	$203	
+	Jin-Gitaxias
+0%	4	$2068	
+	Omnath, Locus of Mana
+0%	4	$1197	
+	Imodane, the Pyrohammer
+0%	4	$272	
+	Phelddagrif
+0%	4	$1532	
+	Zoraline, Cosmos Caller
+0%	4	$751	
+	Evereth, Viceroy of Plunder
+0%	4	$1226	
+	Jolene, the Plunder Queen
+0%	4	$1537	
+	Belbe, Corrupted Observer
+0%	4	$3634	
+	Gor Muldrak, Amphinologist
+0%	4	$76	
+	Norin the Wary
+0%	4	$1839	
+	Alesha, Who Laughs at Fate
+0%	4	$1965	
+	Rendmaw, Creaking Nest
+0%	4	$778	
+	Bright-Palm, Soul Awakener
+0%	4	$122	
+	Laughing Jasper Flint
+0%	4	$1387	
+	Kitt Kanto, Mayhem Diva
+0%	4	$126	
+	Neheb, the Eternal
+0%	4	$2234	
+	Leinore, Autumn Sovereign
+0%	4	$88	
+	Trelasarra, Moon Dancer
+0%	4	$321	
+	Yorion, Sky Nomad
+0%	4	$2468	
+	Taii Wakeen, Perfect Shot
+0%	4	$3209	
+	Betor, Kin to All
+0%	4	$275	
+	Sorin of House Markov
+0%	4	$706	
+	Kibo, Uktabi Prince
+0%	4	$189	
+	Kiora, Sovereign of the Deep
+0%	4	$150	
+	Ian Malcolm, Chaotician
+0%	4	$216	
+
+Best commanders by color combination
+Colorless Commanders
+Colorless Commanders
+Monocolor Commanders
+Mono Red Commanders
+Mono Green Commanders
+Mono Blue Commanders
+Mono Black Commanders
+Mono White Commanders
+Bicolor Commanders
+Azorius Commanders
+Boros Commanders
+Dimir Commanders
+Golgari Commanders
+Gruul Commanders
+Izzet Commanders
+Orzhov Commanders
+Rakdos Commanders
+Selesnya Commanders
+Simic Commanders
+Tricolor Commanders
+Abzan Commanders
+Bant Commanders
+Esper Commanders
+Grixis Commanders
+Jeskai Commanders
+Jund Commanders
+Mardu Commanders
+Naya Commanders
+Sultai Commanders
+Temur Commanders
+Four Color Commanders
+Glint (no white) Commanders
+Dune (no blue) Commanders
+Ink (no black) Commanders
+Witch (no red) Commanders
+Yore (no green) Commanders
+Five Color Commanders
+5 Colors Commanders

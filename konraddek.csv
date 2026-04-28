@@ -1,0 +1,101 @@
+Card_Name,Category,Card_Type,Rarity,Price_USD,Source
+Syr Konrad The Grim,commander,,,0.0,commander
+Crypt Rats,creature,creature — rat,C,0.5,seed
+Sol Ring,artifact,artifact,R,1.24,seed
+Morbid Opportunist,creature,creature — human rogue,U,0.3,seed
+Dauthi Ghoul,creature,creature — dauthi zombie,U,1.0,seed
+Phyrexian Arena,enchantment,enchantment,R,3.13,seed
+Sadistic Glee,enchantment,enchantment — aura,C,1.79,seed
+Wrench Mind,sorcery,sorcery,C,0.25,seed
+Swamp,land,basic land — swamp,C,0.01,recommended
+Arcane Signet,artifact,artifact,C,0.49,recommended
+Command Tower,land,land,C,0.31,recommended
+Dark Ritual,instant,instant,C,1.05,recommended
+Exotic Orchard,land,land,R,0.25,recommended
+Fellwar Stone,artifact,artifact,U,0.69,recommended
+Scurrilous Sentry,creature,creature — human knight rogue,C,0.2,recommended
+Eyeblight Assassin,creature,creature — elf assassin,C,0.2,recommended
+Briarblade Adept,creature,creature — elf assassin,C,0.2,recommended
+Hooded Assassin,creature,creature — human assassin,C,0.2,recommended
+Downwind Ambusher,creature,creature — skunk assassin,U,0.22,recommended
+Traitor's Clutch,instant,instant,C,0.25,recommended
+Blood Operative,creature,creature — vampire assassin,R,0.3,recommended
+Sanguine Spy,creature,creature — vampire rogue,R,0.33,recommended
+Scarblade Elite,creature,creature — elf assassin,R,2.74,recommended
+Ruthless Ripper,creature,creature — human assassin,U,0.25,recommended
+Raffine's Silencer,creature,creature — human assassin,U,0.2,recommended
+Serpent Assassin,creature,creature — snake assassin,U,0.25,recommended
+Rooftop Assassin,creature,creature — vampire assassin,C,0.2,recommended
+Cuombajj Witches,creature,creature — human wizard,C,0.25,recommended
+Garza's Assassin,creature,creature — human assassin,R,1.25,recommended
+Grave Strength,sorcery,sorcery,U,0.23,recommended
+Wreckage Wickerfolk,creature,artifact creature — scarecrow,C,0.2,recommended
+Seer of Stolen Sight,creature,creature — phyrexian warlock,U,0.25,recommended
+Found Footage,artifact,artifact — clue,C,0.2,recommended
+Unscrupulous Contractor,creature,creature — human assassin,U,0.24,recommended
+Stronghold Assassin,creature,creature — phyrexian zombie assassin,R,0.94,recommended
+Hired Poisoner,creature,creature — human assassin,C,0.23,recommended
+Criminal Past,enchantment,legendary enchantment — background,U,0.22,recommended
+Ruthless Negotiation,sorcery,sorcery,U,0.24,recommended
+Soul Enervation,enchantment,enchantment,U,0.25,recommended
+Ashes of the Fallen,artifact,artifact,R,7.82,recommended
+Merciless Harlequin,creature,creature — human assassin,C,0.25,recommended
+The Revelations of Ezio,enchantment,enchantment — saga,U,0.25,recommended
+Chain Assassination,instant,instant,U,0.25,recommended
+"Roshan, Hidden Magister",creature,legendary creature — human assassin,U,0.25,recommended
+Desmond Miles,creature,legendary creature — human assassin,R,0.43,recommended
+Jacob Frye,creature,legendary creature — human assassin,R,0.35,recommended
+Assassin Initiate,creature,creature — human assassin,U,0.28,recommended
+Restart Sequence,sorcery,sorcery,U,0.28,recommended
+Guildsworn Prowler,creature,creature — tiefling rogue assassin,C,0.25,recommended
+Skemfar Shadowsage,creature,creature — elf cleric,U,0.3,recommended
+Season of Loss,sorcery,sorcery,M,1.17,recommended
+Nekrataal,creature,creature — human assassin,U,0.25,recommended
+Eye of Duskmantle,creature,creature — eye,R,0.3,recommended
+Charnel Serenade,sorcery,sorcery,R,0.33,recommended
+Conspiracy,enchantment,enchantment,R,0.5,recommended
+Unshakable Tail,creature,creature — zombie detective,R,0.36,recommended
+Pile On,instant,instant,R,0.34,recommended
+Royal Assassin,creature,creature — human assassin,R,0.25,recommended
+Reanimate,sorcery,sorcery,U,8.35,recommended
+Feed the Swarm,sorcery,sorcery,C,0.3,recommended
+Dogged Detective,creature,creature — human rogue,R,0.3,recommended
+Mindstab,sorcery,sorcery,C,0.2,recommended
+Millstone,artifact,artifact,U,0.24,recommended
+Skulltap,sorcery,sorcery,C,0.25,recommended
+Cursed Rack,artifact,artifact,U,0.32,recommended
+Price of Fame,instant,instant,U,0.26,recommended
+Culling the Weak,instant,instant,C,8.45,recommended
+Vampiric Tutor,instant,instant,R,35.89,recommended
+Cabal Ritual,instant,instant,C,15.0,recommended
+Bojuka Bog,land,land,C,0.69,recommended
+Phyrexian Tower,land,legendary land,R,24.54,recommended
+Ancient Tomb,land,land,U,65.0,recommended
+Gemstone Caverns,land,legendary land,R,49.02,recommended
+Bloodstained Mire,land,land,R,17.52,recommended
+Polluted Delta,land,land,R,19.5,recommended
+City of Brass,land,land,U,10.49,recommended
+Barad-dûr,land,legendary land,R,1.47,recommended
+Spymaster's Vault,land,land,R,1.0,recommended
+Crypt of Agadeem,land,land,R,1.32,recommended
+Cabal Pit,land,land,U,0.6,recommended
+Vault of Whispers,land,artifact land,C,3.7,recommended
+Emergence Zone,land,land,U,4.95,recommended
+Witch's Cottage,land,land — swamp,C,0.9,recommended
+Myriad Landscape,land,land,U,0.28,recommended
+Snow-Covered Swamp,land,basic snow land — swamp,C,0.59,recommended
+Barren Moor,land,land,C,0.25,recommended
+Hidden Grotto,land,land,C,0.25,recommended
+Brotherhood Headquarters,land,land,U,0.26,recommended
+Rogue's Passage,land,land,U,0.25,recommended
+Path of Ancestry,land,land,R,0.25,recommended
+Conduit Pylons,land,land — desert,C,0.29,recommended
+Buried Ruin,land,land,U,0.25,recommended
+The Secret Lair,land,legendary land — lair,M,0.0,recommended
+Marsh Flats,land,land,R,29.67,recommended
+Verdant Catacombs,land,land,R,30.65,recommended
+Mana Confluence,land,land,R,34.87,recommended
+"Urborg, Tomb of Yawgmoth",land,legendary land,R,35.22,recommended
+Flooded Strand,land,land,R,16.28,recommended
+Urza's Saga,land,enchantment land — urza’s saga,R,41.5,recommended
+Dauthi Mindripper,creature,Creature — Dauthi Minion,uncommon,0.29,seed
