@@ -21,11 +21,11 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 BASE_URL = "https://mtgdecks.net/Commander/date-6"
 OUTPUT_FILE = "mtg_commander_data.csv"
 CHECKPOINT_FILE = "scrape_checkpoint.json"
-DECKS_PER_COMMANDER = 7
+DECKS_PER_COMMANDER = 20
 COMMANDER_LIMIT = 2000
 
 # Concurrency 
-WORKERS = 3                # concurrent commander grabbers
+WORKERS = 5                # concurrent commander grabbers
 DECK_WORKERS = 5           # concurrent deck fetches per commander
 
 # Rate limiting 
